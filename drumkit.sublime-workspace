@@ -1,0 +1,278 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"space-",
+				"space-between"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"flex",
+				"inline-flex"
+			],
+			[
+				"points",
+				"pointsArray"
+			],
+			[
+				"transit",
+				"transition-delay"
+			],
+			[
+				"tra",
+				"translateY"
+			],
+			[
+				"table-c",
+				"table-cell"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "css",
+		"selected_items":
+		[
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Install Package Control"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 484.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/meghanlogan/Documents/DrumKit/drumkit.css",
+		"/Users/meghanlogan/Documents/DrumKit/drumkit.html",
+		"/Users/meghanlogan/Documents/drumkit.html",
+		"/Users/meghanlogan/Documents/javascriptpracticethings.js",
+		"/Users/meghanlogan/Documents/PPVFORM/skeleton.css",
+		"/Users/meghanlogan/Documents/interviewTest.html",
+		"/Users/meghanlogan/Downloads/html5-boilerplate_v5.3.0/30dayJavaScript.js",
+		"/Users/meghanlogan/Downloads/html5-boilerplate_v5.3.0/javascriptests.js",
+		"/Users/meghanlogan/Documents/interviewTest.css",
+		"/Users/meghanlogan/Documents/PPVFORM/PPPlan.html",
+		"/Users/meghanlogan/Documents/PPVFORM/normalizeskeleton.css",
+		"/Users/meghanlogan/Downloads/html5-boilerplate_v5.3.0/normalizeskeleton.css",
+		"/Users/meghanlogan/Downloads/html5-boilerplate_v5.3.0/skeleton.css",
+		"/Users/meghanlogan/Documents/PPVFORM/PPplan.css",
+		"/Users/meghanlogan/Downloads/html5-boilerplate_v5.3.0/PPPlan.html",
+		"/Users/meghanlogan/Downloads/html5-boilerplate_v5.3.0/PPplan.css",
+		"/Users/meghanlogan/Downloads/html5-boilerplate_v5.3.0/index.html",
+		"/Users/meghanlogan/Downloads/html5up-ethereal/assets/js/main.js",
+		"/Users/meghanlogan/Downloads/html5up-ethereal/index.html",
+		"/Users/meghanlogan/Documents/Meghan Portfolio/main.js",
+		"/Users/meghanlogan/Documents/Meghan Portfolio/mockups.html",
+		"/Users/meghanlogan/Documents/Meghan Portfolio/myprojectwireframe.html",
+		"/Users/meghanlogan/Documents/Meghan Portfolio/blocjamsproject.html",
+		"/Users/meghanlogan/Documents/Meghan Portfolio/index.html",
+		"/Users/meghanlogan/Documents/Meghan Portfolio/main.css",
+		"/Users/meghanlogan/Desktop/uniqueInOrder.js",
+		"/Users/meghanlogan/Desktop/bestpractices.js",
+		"/Users/meghanlogan/Desktop/findoddINT.js",
+		"/Users/meghanlogan/Desktop/scheduleyourday.js",
+		"/Users/meghanlogan/Desktop/createphonenumber.js",
+		"/Users/meghanlogan/Desktop/powersoftwo.js",
+		"/Users/meghanlogan/Desktop/fizzbuzz.js",
+		"/Users/meghanlogan/Desktop/jaden_strings.js",
+		"/Users/meghanlogan/Desktop/unique_in_order.js",
+		"/Users/meghanlogan/Documents/Meghan Portfolio/normalize.css",
+		"/Users/meghanlogan/Desktop/normalize.css",
+		"/Users/meghanlogan/Desktop/index.html",
+		"/Users/meghanlogan/Downloads/ionicons-2.0.1/css/ionicons.css",
+		"/Users/meghanlogan/Desktop/practice.js",
+		"/Users/meghanlogan/Desktop/albumpractice.css",
+		"/Users/meghanlogan/Desktop/album.html",
+		"/Users/meghanlogan/Desktop/collectionpractice.css",
+		"/Users/meghanlogan/Desktop/landingpractice.css",
+		"/Users/meghanlogan/Desktop/practice.css",
+		"/Users/meghanlogan/Desktop/collectionpractice.html",
+		"/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "drumkit.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/javascriptpracticethings.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
